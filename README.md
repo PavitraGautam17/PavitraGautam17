@@ -1,9 +1,8 @@
+[![MasterHead](https://i.gifer.com/OyGx.gif)]([Dhruv](https://github.com/PavitraGautam17))
 <h1 align="center">Hi 👋, I'm Pavitra Gautam</h1>
 <h3 align="center">A Software Engineer in making</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitragautam17&label=Profile%20views&color=0e75b6&style=flat" alt="pavitragautam17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavitragautam17" alt="pavitragautam17" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PavitraGautam17&label=Profile%20views&color=0e75b6&style=flat" alt="pavitragautam17" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
