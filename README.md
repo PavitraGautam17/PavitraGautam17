@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/OyGx.gif)]([Dhruv](https://github.com/PavitraGautam17))
 <h1 align="center">Hi 👋, I'm Pavitra Gautam</h1>
 <h3 align="center">A Software Engineer in making</h3>
-<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavitraGautam17&label=Profile%20views&color=0e75b6&style=flat" alt="pavitragautam17" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
